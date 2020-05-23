@@ -1,6 +1,7 @@
 # vue-fake-data
 
-> a vuejs plugin to generate realistic fake data
+a vuejs plugin to generate realistic fake data based on [fake.js](https://github.com/marak/faker.js)
+
 
 ## installation 
 
@@ -45,7 +46,7 @@ export default {
 
 - **dataFaker**:  help you to generate Fake data such as names and emails ...
 	 
- - **imageFaker**:	  you can use it with `<img>` tag to change the `src` attr to a random imag url 
+- **imageFaker**:	  you can use it with `<img>` tag to change the `src` attr to a random imag url 
   
   #### Example:
 ``` bash
