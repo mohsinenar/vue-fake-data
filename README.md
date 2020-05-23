@@ -10,8 +10,7 @@ npm i vue-fake-data --save
 ```
 ## How to use 
 ```bash
-import vueFakeData from 'vueFakeData'
-
+import vueFakeData from 'vue-fake-data'
 Vue.use(vueFakeData,{locale: 'eng'})
 ```
 ## Global Object 
